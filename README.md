@@ -1,0 +1,2 @@
+# yxngx
+nginx
